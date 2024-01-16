@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
-- 👨‍💻 All of my projects are available at [https://shorturl.at/bjkJW](https://shorturl.at/bjkJW)
+- 👨‍💻 All of my projects are available at (https://shorturl.at/dryDS)
 
 - 💬 Ask me about **Cloud & Cybersecurity**
 
