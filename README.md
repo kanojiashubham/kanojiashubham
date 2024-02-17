@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [https://shorturl.at/bdmQ8](https://shorturl.at/bdmQ8)
 
-- ⚡ Fun fact **I'm just 17**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kanojiashubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanojiashubham" height="30" width="40" /></a>
