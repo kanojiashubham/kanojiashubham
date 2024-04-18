@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I’m Shubham Kanojia</h1>
-<h3 align="center">Passionate Cloud Engineer from Delhi, India</h3>
+<h3 align="center">Passionate Cloud & Cybersecurity Engineer from Delhi, India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.wired.com/photos/593320cb68cb3b3dc4097ed6/master/w_1600,c_limit/1_partyanimsm2.gif">
 
 
-- 🌱 I’m currently learning **Ethical Hacking**
-
-- 👨‍💻 All of my projects are available at (https://shorturl.at/dryDS)
-
-- 💬 Ask me about **Cloud & Cybersecurity**
+- 🌱 AWS, GCP, OCI & Azure.
+  
+- 👨‍💻 Jetking Certified Cloud & Cybersecurity Professional.
+  
+- 💬 Projects available at (https://shorturl.at/dryDS)
 
 - 📫 How to reach me **cloud.shubhamkanojia@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/bdmQ8](https://shorturl.at/bdmQ8)
+- 📄 CV: https://drive.google.com/drive/folders/1JIWHvsUMqWMB16JEbTYlgrYkELEyVYrA?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
