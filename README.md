@@ -3,15 +3,15 @@
 <img align="right" alt="Coding" width="400" src="https://media.wired.com/photos/593320cb68cb3b3dc4097ed6/master/w_1600,c_limit/1_partyanimsm2.gif">
 
 
-- 🌱 AWS, GCP, OCI & Azure.
+- 🌱 Expertise in AWS, GCP, OCI & Azure.
   
 - 👨‍💻 Jetking Certified Cloud & Cybersecurity Professional.
   
 - 💬 Projects available at (https://shorturl.at/dryDS)
 
-- 📫 How to reach me **cloud.shubhamkanojia@gmail.com**
+- 📫 Reach me at: **cloud.shubhamkanojia@gmail.com**
 
-- 📄 CV: https://drive.google.com/drive/folders/1JIWHvsUMqWMB16JEbTYlgrYkELEyVYrA?usp=drive_link
+- 📄 CV: (https://shorturl.at/dDE09)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
