@@ -6,7 +6,7 @@
 - Expertise in AWS, GCP, Azure, OCI, Ethical Hacking, Network Security, Server Administration, Checkpoint Firewall, Fortinet Firewall, Cisco Firewall & Router, RHEL, Kali Linux, Python, HTML, CSS, JavaScript & Microsoft Office 365.
   
 - Projects available at:
-- https://github.com/kanojiashubham?tab=repositories
+  https://github.com/kanojiashubham?tab=repositories
 
 - Reach me at: **cloud.shubhamkanojia@gmail.com**
 
