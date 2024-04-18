@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.wired.com/photos/593320cb68cb3b3dc4097ed6/master/w_1600,c_limit/1_partyanimsm2.gif">
 
 
-- Expertise in AWS, GCP, Azure, OCI, Ethical Hacking, Network Security, Server Administration, Checkpoint Firewall, Fortinet Firewall, Cisco Firewall & Router, RHEL, Kali Linux, Python, HTML, CSS, JavaScript, Office 365.
+- Expertise in AWS, GCP, Azure, OCI, Ethical Hacking, Network Security, Server Administration, Checkpoint Firewall, Fortinet Firewall, Cisco Firewall & Router, RHEL, Kali Linux, Python, HTML, CSS, JavaScript & Microsoft Office 365.
   
 - Projects available at (https://shorturl.at/dryDS)
 
